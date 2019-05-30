@@ -9780,6 +9780,8 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+  text-align: center;
+  padding-top: 40vh;
 }
 
 footer {
