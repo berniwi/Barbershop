@@ -9735,29 +9735,62 @@ p {
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: 300;
+  color: #6C6E70;
 }
 
 .letra_chica {
   font-size: 12px;
   font-family: "Roboto", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
+  color: #6C6E70;
 }
 
 .letra_fecha {
+  font-size: 18px;
   font-family: "Playfair Display", serif;
   font-weight: 900;
+  color: #6C6E70;
+}
+
+nav {
+  background-color: #121619;
+}
+
+.nav__a {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav__ul {
+  padding-left: 60%;
+}
+
+.nav__a--pink {
+  color: #D76C69;
+}
+
+.nav__img {
+  width: 6em;
+  padding-left: 2em;
 }
 
 header {
   background-image: url(../img/post-image.jpg);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
+  height: 100vh;
 }
 
 footer {
-  background-color: #222323;
+  background-color: #121619;
   text-align: center;
-  padding-top: 1em;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.footer__img {
+  width: 8%;
 }
 
 /*# sourceMappingURL=main.css.map */

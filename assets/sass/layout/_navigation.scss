@@ -1,0 +1,22 @@
+nav{
+  background-color: $eerieblack;
+}
+
+.nav__a{
+  font-family: $roboto;
+  text-decoration: none;
+  color: $white;
+}
+
+.nav__ul{
+  padding-left: 60%;
+}
+
+.nav__a--pink{
+  color: $ruddypink;
+}
+
+.nav__img{
+  width: 6em;
+  padding-left: 2em;
+}
