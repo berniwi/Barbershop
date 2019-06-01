@@ -9784,6 +9784,11 @@ header {
   padding-top: 40vh;
 }
 
+.header__h1 {
+  padding-left: 27.5%;
+  width: 45%;
+}
+
 footer {
   background-color: #121619;
   text-align: center;
@@ -9793,6 +9798,32 @@ footer {
 
 .footer__img {
   width: 8%;
+}
+
+.bloguera {
+  border-top: solid #E6E7E7 2px;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+.bloguera__img {
+  border-radius: 100px;
+}
+
+.bloguera__texto {
+  padding-top: 4%;
+}
+
+.bloguera__texto__h2 {
+  padding-bottom: 6%;
+}
+
+.bloguera__texto__h3 {
+  padding-bottom: 3%;
+}
+
+.bloguera__texto__p {
+  line-height: 170%;
 }
 
 /*# sourceMappingURL=main.css.map */
