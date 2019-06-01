@@ -1,3 +1,18 @@
 .contenido{
-  padding-top: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.contenido__texto{
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.contenido__texto__p{
+    line-height: 170%;
+    padding-bottom: 5%;
+}
+
+.contenido__texto__p--pink{
+  color: $spanishpink;
 }

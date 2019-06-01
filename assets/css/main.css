@@ -9831,4 +9831,37 @@ footer {
   line-height: 170%;
 }
 
+.contenido {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.contenido__texto {
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.contenido__texto__p {
+  line-height: 170%;
+  padding-bottom: 5%;
+}
+
+.contenido__texto__p--pink {
+  color: #ECBCBA;
+}
+
+.boton {
+  background-color: #6C6E70;
+  color: #fff;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 16px;
+  margin-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 100px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
 /*# sourceMappingURL=main.css.map */
