@@ -9784,11 +9784,6 @@ header {
   padding-top: 40vh;
 }
 
-.header__h1 {
-  padding-left: 27.5%;
-  width: 45%;
-}
-
 footer {
   background-color: #121619;
   text-align: center;
@@ -9798,6 +9793,16 @@ footer {
 
 .footer__img {
   width: 8%;
+}
+
+.pagina {
+  background-color: #E6E7E7;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.pagina__nav {
+  background-color: #E6E7E7;
 }
 
 .bloguera {
